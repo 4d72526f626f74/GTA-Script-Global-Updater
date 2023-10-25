@@ -1,5 +1,5 @@
 # Installing required modules
-Installing the required modules is very easy, simply open `cmd.exe` and type `python -m  pip install -r requirements.txt` alternatively you can use `python -m pip install colorama`
+Installing the required modules is very easy, simply open `cmd.exe` and type `python -m pip install -r requirements.txt` alternatively you can use `python -m pip install colorama`
 
 # How To Use
 1. Put all the globals that you wish to update into a file and call that file whatever you want, we will use `globals.txt` 
