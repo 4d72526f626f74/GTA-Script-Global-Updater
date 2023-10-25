@@ -6,7 +6,7 @@ Installing the required modules is very easy, simply open `cmd.exe` and type `py
 2. Make sure that you have the old and new scripts downloaded, you can get them from [here](https://github.com/Primexz/GTAV-Decompiled-Scripts)
 3. Open `cmd.exe`, use `cd` command to change to the directory of the script
 4. Now that you're in the correct directory type `python main.py -h` into `cmd.exe`
-5. 
+
 # Example Usage
 `python main.py C:/path/to/old/script.c C:/path/to/new/script.c globals.txt`
 
