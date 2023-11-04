@@ -10,8 +10,5 @@ Installing the required modules is very easy, simply open `cmd.exe` and type `py
 # Example Usage
 `python main.py C:/path/to/old/script.c C:/path/to/new/script.c globals.txt`
 
-# Accuracy
-During testing the script was able to find 90% of the globals within `globals.txt` file but every single global that was found appeared to have 100% accuracy
-
 # Notes
 Using the default settings has the greatest accuracy
